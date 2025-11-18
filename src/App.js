@@ -11,7 +11,7 @@ export default function ProfilePage() {
     email: "harihara1869@gmail.com",
     linkedin: "https://www.linkedin.com/in/hari-hara-1869ya/",
     bio: "Computer Science student at R V College of Engineering with expertise in embedded systems, firmware development, and GUI applications. Passionate about developing innovative solutions for EV technology and drone systems.",
-    avatar: "https://api.dicebear.com/7.x/avataaars/svg?seed=HariHara",
+    avatar: "/avatar.png",
   };
 
   const skills = [
